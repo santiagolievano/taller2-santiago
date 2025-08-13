@@ -9,3 +9,5 @@ print("El tamaño del DataFrame es:", df.shape)
 print("Las primeras 5 filas del DataFrame son:", df.head())
 
 print("Las últimas 5 filas del DataFrame son:", df.tail())
+
+print("Los tipos de datos de cada columna son:", df.dtypes)
